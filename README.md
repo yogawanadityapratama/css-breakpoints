@@ -1,3 +1,3 @@
-<h3>Language</h3>
+## Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
